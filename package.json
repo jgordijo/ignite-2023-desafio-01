@@ -1,0 +1,21 @@
+{
+  "name": "ignite-2023-desafio-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgordijo/ignite-2023-desafio-01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jgordijo/ignite-2023-desafio-01/issues"
+  },
+  "homepage": "https://github.com/jgordijo/ignite-2023-desafio-01#readme"
+}
